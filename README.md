@@ -1,0 +1,2 @@
+# testclone
+git clone test
